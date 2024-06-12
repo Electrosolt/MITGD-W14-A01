@@ -1,1 +1,2 @@
-# MITGD-W14-A01
+# Week 14 Assignment 01
+Initial Week 14 Project
